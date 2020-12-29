@@ -1,0 +1,19 @@
+1. urllib
+2. GET
+3. Transfer
+4. Operating System
+5. a
+6. IETF
+7. Content-type
+8. A socket can be simultaneously read and written
+9. A server must be running that is listening for socket connections
+10. 25
+11. 443
+12. HTTP - HyperText Transfer Protocol
+13. Message Data Types
+14. RFC792
+15. To convert the data to UTF-8 before sending
+16. The code that runs in the server
+17. listen()
+18. bind()
+19. urllib
