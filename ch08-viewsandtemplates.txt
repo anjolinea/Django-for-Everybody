@@ -1,0 +1,9 @@
+1. Displays random “lorem ipsum” Latin text
+2. Removes whitespace between HTML tags.
+3. Returns an absolute path reference matching a given view and optional parameters
+4. capfirst
+5. Returns the length of a list or string
+6. Marks a string as not requiring further HTML escaping prior to output
+7. wordcount
+8. A slug
+9. The current iteration of the loop (1-indexed)
