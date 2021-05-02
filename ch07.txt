@@ -1,0 +1,9 @@
+1. 80
+2. 443
+3. View/Django MVC - HTML
+4. Model/Django MVC - Python
+5. Controller/Django MVC - SQL
+6. Handle check the input data
+7. first incoming HTTP request - urls.py
+8. "View" - templates/polls/main.html
+9. "Controller" - not as simple - 42
