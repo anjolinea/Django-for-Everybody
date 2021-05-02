@@ -1,1 +1,10 @@
-something
+1. sqlite3
+2. settings.py
+3. builds/updates the database structure for the project
+4. to define the shape of the data objects to be stored in a database
+5. It lets you see the SQL that will run to effect a migration
+6. It lets you specfiy how an instance of the model will be represented as a string
+7. The Django shell loads all of the project objects before starting
+8. createsuperuser
+9. admin.py
+10. 42
