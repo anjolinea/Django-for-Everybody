@@ -1,0 +1,12 @@
+1. First-
+2. Second-
+3. Django func-
+4. Session func- Middleware
+5. Information is added to the session
+6. /accounts/login
+7. It tells the authentication system where to go after the action is complete
+8. user.email
+9. The URL of the currently executing request
+10. registration/login.html
+11. request.user.is_authenticated
+12. LoginRequiredMixin
