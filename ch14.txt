@@ -1,6 +1,6 @@
-1. First-
-2. Second-
-3. Django func-
+1. First- Cookie 
+2. Second- Session
+3. Django func- Application
 4. Session func- Middleware
 5. Information is added to the session
 6. /accounts/login
